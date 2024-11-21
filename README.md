@@ -1,4 +1,4 @@
-# EXP 5:ENCODER 8TO3 DATAFLOW Modelling
+# EXP5:ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
@@ -59,7 +59,7 @@ Developed by:Parveen Sulthana  RegisterNumber:24900218
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
-![encoder diagram](https://github.com/user-attachments/assets/309dceec-e756-4fcc-8c3c-ac1980db6466)
+![encoder diagram](https://github.com/user-attachments/assets/29e2e509-1ecb-41a4-9633-bf3bdaebcc4b)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
